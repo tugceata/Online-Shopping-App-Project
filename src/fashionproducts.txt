@@ -1,0 +1,11 @@
+Moda,20001,Tişört(K),30,299,Sepete Ekle
+Moda,20002,Ayakkabı(K),30,500,Sepete Ekle
+Moda,20003,Şort(E),20,400,Sepete Ekle
+Moda,20004,Elbise(K),50,237,Sepete Ekle
+Moda,20005,Pantolon(K),25,350,Sepete Ekle
+Moda,20006,Pantolon(E),25,399,Sepete Ekle
+Moda,20007,Gömlek(E),35,550,Sepete Ekle
+Moda,20008,Ayakkabı(E),30,450,Sepete Ekle
+Moda,20009,Mont(K),40,700,Sepete Ekle
+Moda,20010,Atkı(K),15,200,Sepete Ekle
+Moda,20011,Mont(E),45,650,Sepete Ekle

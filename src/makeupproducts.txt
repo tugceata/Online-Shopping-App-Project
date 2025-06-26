@@ -1,0 +1,7 @@
+Makyaj,50001,Rimel,10,100,Sepete Ekle
+Makyaj,50002,Ruj,15,140,Sepete Ekle
+Makyaj,50003,Far,5,289,Sepete Ekle
+Makyaj,50004,Fondoten,20,350,Sepete Ekle
+Makyaj,50005,Allık,15,250,Sepete Ekle
+Makyaj,50006,Nemlendirici,10,150,Sepete Ekle
+Makyaj,50007,Bronzer,12,330,Sepete Ekle

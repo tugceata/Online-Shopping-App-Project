@@ -1,0 +1,7 @@
+Kitap,30001,Da Vinci Şifresi - Dan Brown,10,359,Sepete Ekle
+Kitap,30002,Olasılıksız - Adam Fawer,15,174,Sepete Ekle
+Kitap,30003,Cinder - Marissa Meyer,10,239,Sepete Ekle
+Kitap,30004,1984 - George Orwell,20,391,Sepete Ekle
+Kitap,30005,Hayvan Mezarlığı - Stephen King,30,595,Sepete Ekle
+Kitap,30006,Kızıl - Stefan Zweig,20,396,Sepete Ekle
+Kitap,30007,Harry Potter - J.K. Rowling,12,388,Sepete Ekle

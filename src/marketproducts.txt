@@ -1,0 +1,7 @@
+Market,60001,Deterjan,30,497,Sepete Ekle
+Market,60002,Mendil,10,600,Sepete Ekle
+Market,60003,Su,20,698,Sepete Ekle
+Market,60004,Kağıt,20,460,Sepete Ekle
+Market,60005,Kalem,15,348,Sepete Ekle
+Market,60006,Oyuncak,30,240,Sepete Ekle
+Market,60007,Poşet,20,299,Sepete Ekle

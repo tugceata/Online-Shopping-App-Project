@@ -1,0 +1,8 @@
+Eşya,40001,Koltuk,150,298,Sepete Ekle
+Eşya,40002,Masa,70,347,Sepete Ekle
+Eşya,40003,Sehpa,50,398,Sepete Ekle
+Eşya,40004,Dolap,80,260,Sepete Ekle
+Eşya,40005,Yatak,200,308,Sepete Ekle
+Eşya,40006,Şifonyer,55,338,Sepete Ekle
+Eşya,40007,Ayna,20,400,Sepete Ekle
+Eşya,40008,Gardrop,30,3600,Sepete Ekle

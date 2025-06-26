@@ -1,0 +1,9 @@
+Teknoloji,10001,Telefon,400,347,Sepete Ekle
+Teknoloji,10002,Kulaklık,150,91,Sepete Ekle
+Teknoloji,10003,Televizyon,270,298,Sepete Ekle
+Teknoloji,10004,Akıllı Saat,150,118,Sepete Ekle
+Teknoloji,10005,Bilgisayar,800,497,Sepete Ekle
+Teknoloji,10006,Tablet,390,899,Sepete Ekle
+Teknoloji,10007,Bellek,50,229,Sepete Ekle
+Teknoloji,10008,Klavye,30,560,Sepete Ekle
+Teknoloji,10009,f,f,f,Sepete Ekle
